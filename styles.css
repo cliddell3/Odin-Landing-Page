@@ -1,0 +1,42 @@
+.Section1, .Footer {
+    background-color: #1F2937;
+}
+
+.Logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.text {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8
+}
+
+ul, .Description {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+button {
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: white;
+    border-style: solid;
+    padding: 16px;
+    width: 100px;
+    height: 10px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: transparent;
+}
+
+.Section2, .Section4 {
+    background-color: white;
+}
+
+.Section3 {
+    background-color: #E5E7EB;
+}
