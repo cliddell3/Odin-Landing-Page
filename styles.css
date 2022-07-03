@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', 'Times New Roman';
+    font-family: 'Roboto', sans-serif;
 }
 
 .Section1, .Footer {
@@ -116,5 +116,11 @@ h2 {
 .Button2 {
     border: 2px solid white;
     border-radius: 10px;
+}
 
+/* Completing Section 5 Footer*/
+
+.Footer {
+    text-align: center;
+    color: white;
 }
