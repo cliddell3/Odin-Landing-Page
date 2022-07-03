@@ -74,3 +74,17 @@ ul {
 {
     margin-bottom: 40px;
 }
+
+/* Completing Section 2 Some Random Information*/
+
+h2 {
+    text-align: center;
+}
+
+.PicSection {
+    display: flex;
+    margin: 8px;
+    gap: 18px;
+}
+
+/* Completing Section 3 Quotes*/
