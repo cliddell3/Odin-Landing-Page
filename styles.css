@@ -1,10 +1,10 @@
 body {
-    font-family: 'Roboto', 'Times New Roman'
+    font-family: 'Roboto', 'Times New Roman';
 }
 
 .Section1, .Footer {
     background-color: #1F2937;
-    padding: 20px 40px;
+    padding: 20px 80px;
 }
 
 .Logo {
@@ -41,12 +41,12 @@ button {
 
 .Section2, .Section4 {
     background-color: white;
-    padding: 40px;
+    padding: 80px;
 }
 
 .Section3 {
     background-color: #E5E7EB;
-    padding: 40px;
+    padding: 80px;
 }
 /*Above is setting colors and fonts, below is structuring the heading*/
 
@@ -88,3 +88,14 @@ h2 {
 }
 
 /* Completing Section 3 Quotes*/
+.Quote {
+    font-size: 36px;
+    font-style: light italic ;
+    color: #1F2937;
+}
+.Attribution {
+    text-align: right;
+    font-weight: bold;
+}
+
+/* Completing Section 4 Call to Action*/
