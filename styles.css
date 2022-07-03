@@ -99,3 +99,22 @@ h2 {
 }
 
 /* Completing Section 4 Call to Action*/
+.ContainerBlue {
+    display: flex;
+    gap: 180px; 
+    background-color: #3882F6;
+    padding: 40px;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.Call {
+    font-weight: bold;
+}
+
+.Button2 {
+    border: 2px solid white;
+    border-radius: 10px;
+
+}
